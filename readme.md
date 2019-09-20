@@ -1,7 +1,7 @@
 Libsass Binaries
 ================
 
-Static binaries for Windows, Mac OS  and Linux
+Static sassc binaries for Windows, Mac OS and Linux, based on [libsass](https://github.com/sass/libsass).
 
 Referer 
 -------
