@@ -14,5 +14,12 @@
       "email": "eslider@gmail.com",
       "homepage": "https://github.com/eSlider"
     }
-  ]
+  ],
+  "require": {
+    "php": ">=5.3.1",
+    "wheregroup/platform-detect": "~0.0 || ^1"
+  },
+  "autoload": {
+    "psr-4": { "Wheregroup\\SasscBinaries\\": "lib" }
+  }
 }
